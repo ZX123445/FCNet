@@ -5,14 +5,6 @@ import numpy as np
 from torch import nn
 from lib.Res2Net_v1b import res2net50_v1b_26w_4s
 
-# from lib.feature_1 import ETB #对一组图像中的随机一张图像进行特征提取   #消融实验
-# from lib.feature1_wu_B import ETB #对一组图像中的随机一张图像进行特征提取   #消融实验
-
-from lib.feature_1 import ETB #对一组图像中的随机一张图像进行特征提取     #原网络
-
-
-from lib.feature_2 import sa_layer  #对一组图像进行协同特征提取
-from lib.fusion import B  #融合模块
 
 class BasicConv2d(nn.Module):
     def __init__(self, in_planes, out_planes, kernel_size, stride=1, padding=0, dilation=1):
