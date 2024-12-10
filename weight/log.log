@@ -1,0 +1,159 @@
+[2024-11-11 08:20:52 PM-train_val.py-INFO:Network-Train]
+[2024-11-11 08:20:52 PM-train_val.py-INFO:Config: epoch: 100; lr: 0.0001; batchsize: 2; trainsize: 256; clip: 0.5; decay_rate: 0.1; load: None; save_path: ./weight/; decay_epoch: 50]
+[2024-11-11 08:23:08 PM-train_val.py-INFO:Network-Train]
+[2024-11-11 08:23:08 PM-train_val.py-INFO:Config: epoch: 100; lr: 0.0001; batchsize: 2; trainsize: 256; clip: 0.5; decay_rate: 0.1; load: None; save_path: ./weight/; decay_epoch: 50]
+[2024-11-11 08:29:14 PM-train_val.py-INFO:Network-Train]
+[2024-11-11 08:29:14 PM-train_val.py-INFO:Config: epoch: 100; lr: 0.0001; batchsize: 2; trainsize: 256; clip: 0.5; decay_rate: 0.1; load: None; save_path: ./weight/; decay_epoch: 50]
+[2024-11-11 08:30:06 PM-train_val.py-INFO:#TRAIN#:Epoch [001/100], Step [0001/2802], LR:0.0001000,  sal_loss:6.347305 , mem_use:1414MB]
+[2024-11-11 08:30:17 PM-train_val.py-INFO:#TRAIN#:Epoch [001/100], Step [0100/2802], LR:0.0001000,  sal_loss:4.430339 , mem_use:1414MB]
+[2024-11-11 08:30:30 PM-train_val.py-INFO:#TRAIN#:Epoch [001/100], Step [0200/2802], LR:0.0001000,  sal_loss:4.882278 , mem_use:1414MB]
+[2024-11-11 08:30:41 PM-train_val.py-INFO:#TRAIN#:Epoch [001/100], Step [0300/2802], LR:0.0001000,  sal_loss:4.413255 , mem_use:1414MB]
+[2024-11-11 08:30:52 PM-train_val.py-INFO:#TRAIN#:Epoch [001/100], Step [0400/2802], LR:0.0001000,  sal_loss:3.817790 , mem_use:1414MB]
+[2024-12-01 10:33:19 AM-train_val.py-INFO:Network-Train]
+[2024-12-01 10:33:19 AM-train_val.py-INFO:Config: epoch: 100; lr: 0.0001; batchsize: 2; trainsize: 256; clip: 0.5; decay_rate: 0.1; load: None; save_path: ./weight/; decay_epoch: 50]
+[2024-12-01 10:34:31 AM-train_val.py-INFO:Network-Train]
+[2024-12-01 10:34:31 AM-train_val.py-INFO:Config: epoch: 100; lr: 0.0001; batchsize: 2; trainsize: 256; clip: 0.5; decay_rate: 0.1; load: None; save_path: ./weight/; decay_epoch: 50]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:Network-Train]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:Config: epoch: 100; lr: 0.0001; batchsize: 2; trainsize: 256; clip: 0.5; decay_rate: 0.1; load: None; save_path: ./weight/; decay_epoch: 50]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Train Info]: Epoch [001/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Cur Epoch: 1] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Train Info]: Epoch [002/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Cur Epoch: 2] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Train Info]: Epoch [003/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Cur Epoch: 3] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Train Info]: Epoch [004/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:58 AM-train_val.py-INFO:[Cur Epoch: 4] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Train Info]: Epoch [005/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Cur Epoch: 5] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Train Info]: Epoch [006/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Cur Epoch: 6] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Train Info]: Epoch [007/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Cur Epoch: 7] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Train Info]: Epoch [008/100], Loss_AVG: 0.0000]
+[2024-12-01 10:34:59 AM-train_val.py-INFO:[Cur Epoch: 8] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Train Info]: Epoch [009/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Cur Epoch: 9] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Train Info]: Epoch [010/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Cur Epoch: 10] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Train Info]: Epoch [011/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Cur Epoch: 11] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Train Info]: Epoch [012/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Cur Epoch: 12] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Train Info]: Epoch [013/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Cur Epoch: 13] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Train Info]: Epoch [014/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:00 AM-train_val.py-INFO:[Cur Epoch: 14] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Train Info]: Epoch [015/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Cur Epoch: 15] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Train Info]: Epoch [016/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Cur Epoch: 16] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Train Info]: Epoch [017/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Cur Epoch: 17] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Train Info]: Epoch [018/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Cur Epoch: 18] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Train Info]: Epoch [019/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Cur Epoch: 19] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Train Info]: Epoch [020/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:01 AM-train_val.py-INFO:[Cur Epoch: 20] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Train Info]: Epoch [021/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Cur Epoch: 21] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Train Info]: Epoch [022/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Cur Epoch: 22] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Train Info]: Epoch [023/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Cur Epoch: 23] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Train Info]: Epoch [024/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Cur Epoch: 24] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Train Info]: Epoch [025/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Cur Epoch: 25] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Train Info]: Epoch [026/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Cur Epoch: 26] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Train Info]: Epoch [027/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:02 AM-train_val.py-INFO:[Cur Epoch: 27] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Train Info]: Epoch [028/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Cur Epoch: 28] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Train Info]: Epoch [029/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Cur Epoch: 29] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Train Info]: Epoch [030/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Cur Epoch: 30] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Train Info]: Epoch [031/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Cur Epoch: 31] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Train Info]: Epoch [032/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Cur Epoch: 32] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Train Info]: Epoch [033/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:03 AM-train_val.py-INFO:[Cur Epoch: 33] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Train Info]: Epoch [034/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Cur Epoch: 34] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Train Info]: Epoch [035/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Cur Epoch: 35] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Train Info]: Epoch [036/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Cur Epoch: 36] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Train Info]: Epoch [037/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Cur Epoch: 37] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Train Info]: Epoch [038/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Cur Epoch: 38] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Train Info]: Epoch [039/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:04 AM-train_val.py-INFO:[Cur Epoch: 39] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Train Info]: Epoch [040/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Cur Epoch: 40] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Train Info]: Epoch [041/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Cur Epoch: 41] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Train Info]: Epoch [042/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Cur Epoch: 42] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Train Info]: Epoch [043/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Cur Epoch: 43] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Train Info]: Epoch [044/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Cur Epoch: 44] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Train Info]: Epoch [045/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:05 AM-train_val.py-INFO:[Cur Epoch: 45] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:06 AM-train_val.py-INFO:[Train Info]: Epoch [046/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:06 AM-train_val.py-INFO:[Cur Epoch: 46] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:35:06 AM-train_val.py-INFO:[Train Info]: Epoch [047/100], Loss_AVG: 0.0000]
+[2024-12-01 10:35:06 AM-train_val.py-INFO:[Cur Epoch: 47] Metrics (mxFm=nan, Sm=nan, mxEm=nan)
+[Best Epoch:0] Metrics (mxFm=nan, Sm=nan, mxEm=nan)]
+[2024-12-01 10:40:20 AM-train_val.py-INFO:Network-Train]
+[2024-12-01 10:40:20 AM-train_val.py-INFO:Config: epoch: 100; lr: 0.0001; batchsize: 2; trainsize: 256; clip: 0.5; decay_rate: 0.1; load: None; save_path: ./weight/; decay_epoch: 50]
